@@ -1,4 +1,4 @@
-n# Text analyzer
+# Text analyzer
 
 Pretty simple text analyzer
 
